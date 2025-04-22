@@ -57,5 +57,5 @@
 <br>
 <h3 align="center">🖇️ Stats</h3>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tansxx&show_icons=true&theme=graywhite)
+  <img src="https://github-readme-stats.vercel.app/api?username=tansxx&show_icons=true&theme=graywhite" />&nbsp
 </div>
