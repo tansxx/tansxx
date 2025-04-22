@@ -55,7 +55,8 @@
 </div>
 
 <br>
+
 <h3 align="center">🖇️ Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tansxx&show_icons=true&theme=graywhite" />&nbsp
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tansxx&show_icons=true&theme=graywhite&cache_seconds=30" alt="GitHub Stats" />
+</p>
